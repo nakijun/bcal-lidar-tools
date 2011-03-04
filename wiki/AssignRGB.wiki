@@ -19,7 +19,7 @@ This tool is meant to assign RGB color data into LAS 1.2 files from multiband im
     * Select the output directory. The output files will now have RGB information from the elevation. The files will be saved in the new directory with the same name as the input files.
 
   * Assigning RGB from vegetation height:
-    * Select the input LAS file(s). The files should be [HeightFilter height filtered] first.
+    * Select the input LAS file(s). The files should be [HeightFiltering height filtered] first.
     * Select a color palette.
     * Select the output directory. The output files will now have RGB information from the vegetation height. The files will be saved in the new directory with the same name as the input files.
 
