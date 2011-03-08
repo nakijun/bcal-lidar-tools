@@ -6,6 +6,7 @@
   * [ToolsOverview Tools Overview]
   * [ToolsUsage Publications]
   * [UpdateLog Update Log]
+  * [Citation Citation]
   * Help
     * LAS Files
       * [LASFileInfo Get Header Info]
