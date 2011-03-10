@@ -2,7 +2,7 @@
 
 =Using "Decimate LAS File(s)"=
 
-This tool is meant to decimate one or more LAS files. LAS files can be decimated by number of points or by percentage of the total points.
+This tool is meant to decimate (or reduce number of lidar points from) one or more LAS files. LAS files can be decimated by number of points or by percentage of the total points.
 
 ==Usage:==
 
