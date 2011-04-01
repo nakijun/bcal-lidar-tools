@@ -12,7 +12,7 @@ This section lists scientific papers that reported using BCAL LiDAR Tools for th
 
    * Glenn, N.F., Spaete, L.P., Sankey, T.T., Derryberry, D.R., Hardegree, S.P., Mitchell, J.J., 2011. [http://bcal.geology.isu.edu/docs/Glennetal2010JAE.pdf Errors in LiDAR-derived shrub height and crown area on sloped terrain], Journal of Arid Environments, 75 (4), 377-382.
 
-  * Spaete, L., Glenn, N., Derryberry, D., Sankey, T., Mitchell, J., Hardegree, S., 2011. [www.informaworld.com/index/931112759.pdf Vegetation and slope effects on accuracy of a LiDAR-derived DEM in the sagebrush steppe]. Remote Sensing Letters, 2 (4), 317-326.
+  * Spaete, L., Glenn, N., Derryberry, D., Sankey, T., Mitchell, J., Hardegree, S., 2011. [http://www.informaworld.com/index/931112759.pdf Vegetation and slope effects on accuracy of a LiDAR-derived DEM in the sagebrush steppe]. Remote Sensing Letters, 2 (4), 317-326.
 
   * Tinkham W.T.,	Huang H.,	Smith A.M.S.,	Shrestha R.,	Falkowski M.J.,	Hudak A.T.,	Link T.E.,	Glenn N.F.,	Marks D.G., 2011. [http://www.mdpi.com/2072-4292/3/3/638/ A Comparison of Two Open Source LiDAR Surface Classification Algorithms]. Remote Sensing, 3(3):638-649.
 
