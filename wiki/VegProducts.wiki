@@ -10,8 +10,8 @@ This tool is meant to convert LiDAR point data into various raster vegetation pr
   * Select whether to use the first return, last return, or both.
   * Input the raster pixel resolution. The units of this parameter are the same as the horizontal coordinates of the data.
   * Enter the value for pixels where no data exists.
-  * Enter the ground threshold value. This value is necessary only for calculation of height distribution products. 
-  * Enter the crown threshold value. This value is necessary only for calculation of canopy density product.
+  * Enter the ground threshold value (GT). This value is necessary only for calculation of height distribution products. 
+  * Enter the crown threshold value (CT). This value is necessary only for calculation of canopy density product.
   * If the "Interpolate data?" box is checked, the tool will interpolate gaps within the raster. However, the tool does not extrapolate outside the edges of the data.
   * If the "Use vector mask(s)?" box is checked, the tool will prompt the user to select one or more EVF files. Pixels within these areas will not be processed.
   * If the "Mosaic multiple files?" box is checked, then multiple input files will be combined into a single raster. If this box is not checked, and multiple input files are selected, a raster will be created for each input file.
@@ -33,10 +33,11 @@ This tool is meant to convert LiDAR point data into various raster vegetation pr
     * *Height Coefficient of Variation* - The coefficient of variation of all height points within each pixel.  
     * *Height Percentiles* - The 5th, 10th, 25th, 50th, 75th, 90th, and 95th percentiles of all height points within each pixel.  
     * *Number of LiDAR Returns* - The total number of all points within each pixel.
-    * *Number of LiDAR Vegetation Returns (nV)* - The total number of all the points within each pixel that are above the specified crown threshold value.
-   * *Number of LiDAR Ground Returns (nG)* - The total number of all the points within each pixel that are below the specified ground threshold value.
-   * *Total Vegetation Density* - The percent ratio of vegetation returns and ground returns within each pixel. Density = nV/nG*100
-   * *Percent of Vegetation in Height Range* - Percent of vegetation in height ranges 0-1m, 1-2.5m, 2.5-10m, 10-20m, 20-30m, and >30m within each pixel.
+    * *Number of LiDAR Vegetation Returns (nV)* - The total number of all the points within each pixel that are above the specified crown threshold value (CT).
+   * *Number of LiDAR Ground Returns (nG)* - The total number of all the points within each pixel that are below the specified ground threshold value (GT).
+   * *Total Vegetation Density* - The percent ratio of vegetation returns and ground returns within each pixel. Density = nV/nG*100. 
+   * *Vegetation Cover* - The percent ratio of vegetation returns (nV) and total returns within each pixel. 
+   * *Percent of Vegetation in Height Range* - Percent of vegetation in height ranges 0-1m, 1-2.5m, 2.5-10m, 10-20m, 20-30m, and >30m within each pixel. Percent of Vegetation = Number of vegetation returns in the range/Total vegetation returns
    * *Canopy Relief Ratio* - Canopy relief ratio of points within each pixel. Canopy relief ratio = ((HMEAN - HMIN))/((HMAX - HMIN)) 
    * *Texture of Heights* - Texture of height of points within each pixel. Texture = St. Dev. (Height > Ground Threshold and Height < Crown Threshold).
   * Click "OK"
