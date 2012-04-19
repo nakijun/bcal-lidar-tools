@@ -10,8 +10,8 @@ This tool is meant to convert LiDAR point data into various raster vegetation pr
   * Select whether to use the first return, last return, or both.
   * Input the raster pixel resolution. The units of this parameter are the same as the horizontal coordinates of the data.
   * Enter the value for pixels where no data exists.
-  * Enter the ground threshold value (GT). If you specify a threshold value of 0.15 m, all the points that has above-ground height of 0.15 m or less will be considered as ground returns. GT are used for calculation of canopy density and height distribution products.
-  * Enter the crown threshold value (CT). If you specify a threshold value of 1.37 m, all the points that has above-ground height greater than 1.37 m will be considered as crown returns. CT are used for calculation of canopy density and height distribution products. 
+  * Enter the ground threshold value (GT). If you specify a threshold value of 0.15 m, all the points that have above-ground height of 0.15 m or less will be considered as ground returns. GT are used for calculation of canopy density and height distribution products.
+  * Enter the crown threshold value (CT). If you specify a threshold value of 1.37 m, all the points that have above-ground height greater than 1.37 m will be considered as crown returns. CT are used for calculation of canopy density and height distribution products. 
   * If the "Interpolate data?" box is checked, the tool will interpolate gaps within the raster. However, the tool does not extrapolate outside the edges of the data.
   * If the "Use vector mask(s)?" box is checked, the tool will prompt the user to select one or more EVF files. Pixels within these areas will not be processed.
   * If the "Mosaic multiple files?" box is checked, then multiple input files will be combined into a single raster. If this box is not checked, and multiple input files are selected, a raster will be created for each input file.
