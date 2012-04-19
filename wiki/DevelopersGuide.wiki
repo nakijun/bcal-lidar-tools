@@ -10,7 +10,7 @@ Maintaining a subversion (SVN) system from IDL Workbench is not very straightfor
   # If you are using Windows, also download and install [http://tortoisesvn.net/downloads.html TortoiseSVN] which will provide a nice GUI front-end for your SVN.
   # IDL comes pre-installed with [http://www.eclipse.org/ Eclipse plugin]. You will only need to install Subclipse subversion plugin.
      * [http://subclipse.tigris.org/servlets/ProjectDocumentList?folderID=2240 Download] a suitable version of Subclipse that matches your Eclipse version. It is 3.x for IDL 8.0. 
-    * Unzip and copy the content of features and plugins folder to IDL installation in your computer (in windows C:\Program Files\ITT\IDL\IDL80\bin\bin.x86\plugins & \features).
+    * Unzip and copy the content of features and plugins folder to IDL installation in your computer. In Windows, it is C:\Program Files\ITT\IDL\IDL80\bin\bin.x86\plugins & \features, and in 64-bit system it is C:\Program Files\ITT\IDL\IDL80\bin\bin.x86_64\plugins & \features.
   # Start your IDL Workbench, create a new project, and right-click and select "Import...". A wizard will pop-up. 
     * Select "SVN-->Checkout Projects from SVN" and click "Next". 
     * Select "Create new repository location" and click "Next".
