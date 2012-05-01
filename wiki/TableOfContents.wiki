@@ -18,6 +18,7 @@
       * [BoundaryLAS  Create Boundary EVF/SHP/KML]
       * [BufferLAS Buffer LAS Files]
       * [TileLAS Tile LAS Files]
+      * [ReclassifyLAS Reclassify LAS Files]
       * [DecimateLAS Decimate LAS Files]
       * [SubsetLAS Subset LAS Files]
        *  [SubsetLASCoord Subset via Coordinates]
