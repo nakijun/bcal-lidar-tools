@@ -13,6 +13,7 @@
 || -  [BoundaryLAS Create Boundary EVF/SHP/KML] || Creates an vector file (EVF, shape or KML) that shows the boundaries of the data ||
 || -  [BufferLAS Buffer LAS Files] || Geographically buffers the data using neighboring files ||
 || -  [TileLAS Tile LAS File(s)] || Divides one or more files into multiple tiles ||
+|| -  [ReclassifyLAS Reclassify LAS File(s)] || Reassigns new classification to old classes of LAS files ||
 || -  [DecimateLAS Decimate LAS File(s)] || Decimates the points the data file ||
 || -  [SubsetLAS Subset LAS File(s)] || Subset LAS files by coordinates or image/ROI ||
 || - -  [SubsetLASCoord Subset via Coordinates] || Subsets data files according to user coordinates ||
