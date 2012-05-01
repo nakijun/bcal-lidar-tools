@@ -14,4 +14,4 @@ This tool is meant to reclassify LAS files(s).
 
 This tool requires data that are in the LAS format.
 
-[http://bcal.geology.isu.edu/envihelp/images/reclassLAS.jpg]
+[http://bcal-lidar-tools.googlecode.com/svn/wiki/images/reclassLAS.jpg]
