@@ -4,7 +4,7 @@
 =Tools Overview=
 
 == ver 1.x.x (ENVI add-on)==
-|| LAS File Utilities || Process/Manipulate LAS files||	
+|| *LAS File Utilities* || *Process/Manipulate LAS files* ||	
 || -  [LASFileInfo Get LAS Header Info] || Displays header and projection information for an LAS file ||
 || -  [LASFileInfo Get LAS Data Info] || Displays descriptive data statistics for LAS file(s) ||
 || -  [AddProject Add Projection to LAS File(s)] || Adds embedded projection information to LAS files ||
