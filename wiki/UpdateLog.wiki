@@ -1,6 +1,7 @@
 #summary Update Log
 
 = Update Log =
+ * ver 1.x.x (ENVI add-on)
   * ver 1.4.0 (5/1/2012)
     * Added new tool to [ReclassifyLAS reclassify LAS files]
   * ver 1.3.0 (6/17/2011)
