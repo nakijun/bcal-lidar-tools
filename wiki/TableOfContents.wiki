@@ -8,7 +8,7 @@
   * [UpdateLog Update Log]
   * [Citation Citation]
   * Help
-    * version 1.x.x (with ENVI)
+    * version 1.x.x (ENVI Add-on)
      * LAS Files
        * [LASFileInfo Get Header Info]
        * [LASDataInfo Get Data Info]
@@ -39,4 +39,4 @@
      * [HeightGroups Create Vegetation Height Groups]
      * [ProfileLAS  Create Elevation Profile(s)]
      * [3DViewer 3D LiDAR Viewer]
-    * version 2.x.x (with IDL Virtual Machine)
+    * version 2.x.x (IDL Virtual Machine Application)
