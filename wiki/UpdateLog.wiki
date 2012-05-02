@@ -33,3 +33,4 @@
   * 08/09/2006 - Added the [3DViewer 3D visualization module]
   * 08/07/2006 - Added [BufferLAS buffering], [DecimateLAS decimation], and [TileLAS tiling] tools
 == ver 2.x.x (IDL Virtual Machine Application) ==
+  * 06/21/2011 - Developmental version released
