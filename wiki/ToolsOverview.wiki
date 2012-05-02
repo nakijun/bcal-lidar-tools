@@ -34,4 +34,3 @@
 || [HeightGroups Create Vegetation Height Groups] || Separate input LAS file into user-specified vegetation height groups ||
 || [ProfileLAS Create Elevation Profile(s)] || Creates one or more elevation profiles along a user-defined transect ||
 || [3DViewer 3D Lidar Viewer] || An interactive viewer for displaying lidar point data ||
-==ver 2.x.x (IDL Virtual Machine Application)==
