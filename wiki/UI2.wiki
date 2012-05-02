@@ -5,3 +5,4 @@
 [http://bcal-lidar-tools.googlecode.com/svn/wiki/images/BCAL_LiDAR_Tools_2.jpg]
 
 ==Toolbar==
+[http://bcal-lidar-tools.googlecode.com/svn/wiki/images/BCAL_Toolbar.jpg]
