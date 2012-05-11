@@ -24,3 +24,4 @@ Replace 'Path-to-lidartools' with your path, e.g., usr/local/lidartools/
 Note: The tools have been tested to work for ENVI 4.7, 4.8 and ENVI 5.0. If it is not working for your version of ENVI, the best option would be to [http://code.google.com/p/bcal-lidar-tools/source download the source codes], and recompile the program in your machine.
 
 [http://bcal-lidar-tools.googlecode.com/svn/wiki/images/MenuBarScreen.jpg]
+[http://bcal-lidar-tools.googlecode.com/svn/wiki/images/bcal_tools_envi5.jpg]
