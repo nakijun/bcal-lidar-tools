@@ -19,7 +19,7 @@ This viewer is used to display lidar point data.
 ==Notes:==
 
   * This viewer requires data that are in the LAS format.
-  * This viewer is based on [http://www.dfanning.com/programs/fsc_surface.pro FSC_SURFACE] by [http://www.dfanning.com/ David Fanning].
+  * This viewer is based on [http://www.idlcoyote.com/programs/retired/fsc_surface.pro FSC_SURFACE] by [http://www.dfanning.com/ David Fanning].
   * Because most data sets contain far too many points for the viewer to adequately display, a random subset of points are utilized. The number of subset points can be adjusted by the user under "Properties".
   * If the colors are set corresponding to an image ("Style->Surface Color Type->From Image"), the source image must be in the same projection as the lidar data and must completely cover the the geographical extent of the lidar data.
 
