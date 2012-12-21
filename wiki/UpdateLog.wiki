@@ -4,7 +4,7 @@
 == ver 1.x.x (ENVI add-on) ==
   * ver 1.5.0 (12/20/2012)
     * Added new data processing wizard tool.
-    * Added ability to manually specify header offsets and scaling in [LAStoAscii Ascii to LAS] tools.
+    * Added ability to manually specify header offsets and scaling in [AsciitoLAS Ascii to LAS] tools.
   * ver 1.4.0 (5/1/2012)
     * Added new tool to [ReclassifyLAS reclassify LAS files]
   * ver 1.3.0 (6/17/2011)
