@@ -13,6 +13,7 @@ This tool is meant to convert ascii data in one or more text files to LAS format
     * Set the number of lines (if any) of the header in the text files.
     * Set the fields corresponding to the easting, northing, and elevation coordinates. (These are required.)
     * If available, set the fields corresponding to intensity, time, return number, scan angle, and flight line.
+    * If needed, set the XYZ scales and offsets.
   * Select the output directory. The output files will be saved in the new directory with the same base name as the input files.
   * Select which LAS format to use for the output files.
   * Set the projection of the data.
