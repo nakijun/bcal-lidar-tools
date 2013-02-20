@@ -17,4 +17,4 @@ This section lists scientific papers that reported using BCAL LiDAR Tools for th
   * Tinkham W.T.,	Huang H.,	Smith A.M.S.,	Shrestha R.,	Falkowski M.J.,	Hudak A.T.,	Link T.E.,	Glenn N.F.,	Marks D.G., 2011. [http://www.mdpi.com/2072-4292/3/3/638/ A Comparison of Two Open Source LiDAR Surface Classification Algorithms]. Remote Sensing, 3(3):638-649.
 
 ===Notes===
-Because most of publications from BCAL use the LiDAR tools, only those papers that describe or test algorithms used in the tools are listed. Complete list of BCAL publications is available at [http://bcal.geology.isu.edu/research.shtml http://bcal.geology.isu.edu/research.shtml].
+Because most of publications from BCAL use the LiDAR tools, only those papers that describe or test algorithms used in the tools are listed. If you have used BCAL LiDAR Tools for your research, please send the publication link to bcal@isu.edu. Complete list of BCAL publications is available at [http://bcal.geology.isu.edu/research/publications http://bcal.geology.isu.edu/research/publications].
