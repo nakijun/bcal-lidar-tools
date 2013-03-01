@@ -11,13 +11,13 @@ Replace 'Path-to-lidartools' with your path, e.g., usr/local/lidartools/
 
 ==version 1.x.x for ENVI 4.x==
   # You will need ENVI 4.7 or above pre-installed in your computer. These tools have not been tested for other versions of ENVI.
-  # [http://code.google.com/p/bcal-lidar-tools/downloads/list Download] the Lidar Tools Zip (version 1.x.x) file. Unzip the file in the "save_add" folder of your ENVI installation. On my computer, this folder is located at: "C:\Program Files\ITT\IDL71\products\enviXX\save_add\"
+  # [http://code.google.com/p/bcal-lidar-tools/downloads/list Download] the Lidar Tools Zip (version 1.x.x) file. Unzip the file into the "save_add" folder of your ENVI installation. On my computer, this folder is located at: "C:\Program Files\ITT\IDL71\products\enviXX\save_add\"
   # Start ENVI
   # BCAL LiDAR tools will be located under a new "BCAL LiDAR" button in the ENVI display between the "Topographic" and "Radar" menus
 
 
 ==version 1.x.x for ENVI 5.x==
-  # [http://code.google.com/p/bcal-lidar-tools/downloads/list Download] the Lidar Tools Zip file. Unzip the file in the "extensions" folder of your ENVI installation. On my computer, this folder is located at: "C:\Program Files\Exelis\ENVI50\extensions\". If you have previous versions installed, remove the previous versions.
+  # [http://code.google.com/p/bcal-lidar-tools/downloads/list Download] the Lidar Tools Zip file. Unzip the file into the "extensions" folder of your ENVI installation. On my computer, this folder is located at: "C:\Program Files\Exelis\ENVI50\extensions\". If you have previous versions installed, remove the previous versions.
   # Start ENVI
   # The tools will appear within the 'Extensions' menu.
 
