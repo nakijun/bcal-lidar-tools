@@ -7,7 +7,7 @@
  # [http://code.google.com/p/bcal-lidar-tools/downloads/list Download] the Lidar Tools Zip (version 2.x.x) file. Unzip the file you have downloaded. Make sure 'resources' folder and 'lidartools.sav' are in same directory.
  # BCAL LiDAR Tools works on Windows, Mac or Unix.
   * In Windows, double-clicking 'lidartools.sav' will start the program.
-  * In Mac, double-click the IDL Virtual Machine icon to start the IDL Virtual Machine, and open the 'LidarTools.sav' from the file selection menu.      
+  * In Mac, double-click the IDL Virtual Machine icon to start the IDL Virtual Machine, and open the 'lidartools.sav' from the file selection menu.      
   * In Unix, issuing following command in the terminal will start the program. Replace 'Path-to-lidartools' with your path, e.g., usr/local/lidartools/
    <code>idl -vm=Path-to-lidartools/lidartools.sav</code>
 
