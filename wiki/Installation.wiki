@@ -3,12 +3,13 @@
 
 =Installation Instructions=
 ==version 2.x.x==
- # If you already have ENVI 4.8 or IDL 8.0 installed, go to Step 2. Otherwise, download and install latest version of [http://www.ittvis.com/ProductsServices/IDL/IDLModules/IDLVirtualMachine.aspx IDL Virtual Machine (VM)].  IDL VM is free, but you will need to register at ITTVis website to download the software. It might take about one business day before your account gets approved by ITTVis, and you are able to download IDL VM. When you install evaluation version of IDL, IDL VM is also installed.      
+ # If you already have ENVI 4.8 or IDL 8.0 installed, go to Step 2. Otherwise, download and install latest version of [http://www.exelisvis.com/ProductsServices/IDL/IDLModules/IDLVirtualMachine.aspx IDL Virtual Machine (VM)].  IDL VM is free, but you will need to register at ExelisVis website to download the software. It might take about one business day before your account gets approved by ExelisVis, and you are able to download IDL VM. When you install evaluation version of IDL, IDL VM is also installed.      
  # [http://code.google.com/p/bcal-lidar-tools/downloads/list Download] the Lidar Tools Zip (version 2.x.x) file. Unzip the file you have downloaded. Make sure 'resources' folder and 'lidartools.sav' are in same directory.
- # In Windows, double-clicking 'lidartools.sav' will start the program. In Unix/Mac, issuing following command in the terminal will start the program.
+ # In Windows, double-clicking 'lidartools.sav' will start the program. In Unix, issuing following command in the terminal will start the program.
    <code>idl -vm=Path-to-lidartools/lidartools.sav</code>
 Replace 'Path-to-lidartools' with your path, e.g., usr/local/lidartools/
 
+In Mac, double-click the IDL Virtual Machine icon to start the IDL Virtual Machine, and open the 'LidarTools.sav' from the file selection menu. 
 ==version 1.x.x for ENVI 4.x==
   # You will need ENVI 4.7 or above pre-installed in your computer. These tools have not been tested for other versions of ENVI.
   # [http://code.google.com/p/bcal-lidar-tools/downloads/list Download] the Lidar Tools Zip (version 1.x.x) file. Unzip the file into the "save_add" folder of your ENVI installation. On my computer, this folder is located at: "C:\Program Files\ITT\IDL71\products\enviXX\save_add\"
