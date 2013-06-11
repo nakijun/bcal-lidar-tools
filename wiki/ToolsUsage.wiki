@@ -10,9 +10,16 @@ This section lists scientific papers that reported using BCAL LiDAR Tools for th
 
   * Yun, Y., and Ying, L., 2009. [http://ieeexplore.ieee.org/ielx5/5300806/5300807/05304531.pdf A Novel Deformable Model for Urban Vegetation Detection Using LiDAR Data]. 2nd International Congress on Image and Signal Processing, 2009. CISP '09. pp. 1-5.
 
-  * Ehinger, S. 2010. [http://bcal.geology.isu.edu/docs/Ehinger_thesis_0629_Final.pdf Design, Development, and Application of LiDAR Data Processing Tools]. Master of Science thesis, Idaho State University, Idaho.
+  * Ehinger, S., 2010. [http://bcal.geology.isu.edu/docs/Ehinger_thesis_0629_Final.pdf Design, Development, and Application of LiDAR Data Processing Tools]. Master of Science thesis, Idaho State University, Idaho.
+
+  * Anderson, D.L., Ames, D.P., 2011. [http://www.hydromap.com/josh/index.php/JOSH/article/download/97/96 A Method for Extracting Stream Channel Flow Paths from LiDAR Point Cloud Data]. Journal of Spatial Hydrology, 11(1)
+
+  * Forsberg, D., 2011. [http://publications.lib.chalmers.se/records/fulltext/148046.pdf Automatic bridge detection in airborne laser scanned 
+data]. Master of Science thesis. Chalmers University of Technology, Sweden.
 
   * Glenn, N.F., Spaete, L.P., Sankey, T.T., Derryberry, D.R., Hardegree, S.P., Mitchell, J.J., 2011. [http://bcal.geology.isu.edu/docs/Glennetal2010JAE.pdf Errors in LiDAR-derived shrub height and crown area on sloped terrain], Journal of Arid Environments, 75 (4), 377-382.
+
+  * Mariappan, M., Lingava, S., Murugaiyan, R., Krishnan, V., Kolanuvada, S.R., Lakshmi, R.S., 2011. [http://www.europeanjournalofscientificresearch.com/ISSUES/EJSR_81_3_02.pdf Carbon Accounting of Urban Forest in Chennai City using Lidar Data]. European Journal of Scientific Research, 81(3): 314-328.
 
   * Spaete, L., Glenn, N., Derryberry, D., Sankey, T., Mitchell, J., Hardegree, S., 2011. [http://bcal.geology.isu.edu/docs/Spaete%20et%20al%202010.pdf Vegetation and slope effects on accuracy of a LiDAR-derived DEM in the sagebrush steppe]. Remote Sensing Letters, 2 (4), 317-326.
 
