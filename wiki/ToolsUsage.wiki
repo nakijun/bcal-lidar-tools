@@ -14,8 +14,7 @@ This section lists scientific papers that reported using BCAL LiDAR Tools for th
 
   * Anderson, D.L., Ames, D.P., 2011. [http://www.hydromap.com/josh/index.php/JOSH/article/download/97/96 A Method for Extracting Stream Channel Flow Paths from LiDAR Point Cloud Data]. Journal of Spatial Hydrology, 11(1)
 
-  * Forsberg, D., 2011. [http://publications.lib.chalmers.se/records/fulltext/148046.pdf Automatic bridge detection in airborne laser scanned 
-data]. Master of Science thesis. Chalmers University of Technology, Sweden.
+  * Forsberg, D., 2011. [http://publications.lib.chalmers.se/records/fulltext/148046.pdf Automatic bridge detection in airborne laser scanned data]. Master of Science thesis. Chalmers University of Technology, Sweden.
 
   * Glenn, N.F., Spaete, L.P., Sankey, T.T., Derryberry, D.R., Hardegree, S.P., Mitchell, J.J., 2011. [http://bcal.geology.isu.edu/docs/Glennetal2010JAE.pdf Errors in LiDAR-derived shrub height and crown area on sloped terrain], Journal of Arid Environments, 75 (4), 377-382.
 
