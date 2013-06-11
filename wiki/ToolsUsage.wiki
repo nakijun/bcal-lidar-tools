@@ -8,6 +8,8 @@ This section lists scientific papers that reported using BCAL LiDAR Tools for th
 
   * Long, B., Cottin, A., Collin, A., 2007. [http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=04423518 What optech's bathymetric LiDAR sees underwater]. Geoscience and Remote Sensing Symposium, 2007. IGARSS 2007. pp. 3170-3173.
 
+  * West, M.S., Resmini, R.G., 2009. [http://proceedings.spiedigitallibrary.org/proceeding.aspx?articleid=778681 Hyperspectral imagery and LiDAR for geological analysis of Cuprite, Nevada]. Proc. SPIE 7334, Algorithms and Technologies for Multispectral, Hyperspectral, and Ultraspectral Imagery XV, 73341C (April 27, 2009); doi:10.1117/12.819315.
+
   * Yun, Y., and Ying, L., 2009. [http://ieeexplore.ieee.org/ielx5/5300806/5300807/05304531.pdf A Novel Deformable Model for Urban Vegetation Detection Using LiDAR Data]. 2nd International Congress on Image and Signal Processing, 2009. CISP '09. pp. 1-5.
 
   * Ehinger, S., 2010. [http://bcal.geology.isu.edu/docs/Ehinger_thesis_0629_Final.pdf Design, Development, and Application of LiDAR Data Processing Tools]. Master of Science thesis, Idaho State University, Idaho.
