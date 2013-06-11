@@ -22,7 +22,7 @@ This section lists scientific papers that reported using BCAL LiDAR Tools for th
 
   * Magarick, J.F. 2012. [http://hdl.handle.net/1920/8015 Improving Vegetation and Background Discrimination from Hyperspectral Imaging (HSI) and Light Detection and Ranging (LiDAR) Fusion Using an Added Shortwave Infrared (SWIR) HSI Component]. Master of Science Thesis, George Mason University, Virginia.
 
-  * Joel B. Sankey, J.B., Law, D.J., Breshears, D.D., Munson, S.M., Webb, R.H. [http://onlinelibrary.wiley.com/doi/10.1002/grl.50356/abstract Employing lidar to detail vegetation canopy architecture for prediction of aeolian transport]. Geophysical Research Letters. DOI: 10.1002/grl.50356
+  * Sankey, J.B., Law, D.J., Breshears, D.D., Munson, S.M., Webb, R.H. [http://onlinelibrary.wiley.com/doi/10.1002/grl.50356/abstract Employing lidar to detail vegetation canopy architecture for prediction of aeolian transport]. Geophysical Research Letters. DOI: 10.1002/grl.50356
 
 ===Notes===
 Because most of publications from BCAL use the LiDAR tools, only those papers that describe or test algorithms used in the tools are listed. If you have used BCAL LiDAR Tools for your research, please send the publication link to bcal@isu.edu. Complete list of BCAL publications is available at [http://bcal.geology.isu.edu/research/publications http://bcal.geology.isu.edu/research/publications].
