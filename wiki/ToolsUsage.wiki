@@ -10,7 +10,9 @@ This section lists scientific papers that reported using BCAL LiDAR Tools for th
 
   * Yun, Y., and Ying, L., 2009. [http://ieeexplore.ieee.org/ielx5/5300806/5300807/05304531.pdf A Novel Deformable Model for Urban Vegetation Detection Using LiDAR Data]. 2nd International Congress on Image and Signal Processing, 2009. CISP '09. pp. 1-5.
 
-   * Glenn, N.F., Spaete, L.P., Sankey, T.T., Derryberry, D.R., Hardegree, S.P., Mitchell, J.J., 2011. [http://bcal.geology.isu.edu/docs/Glennetal2010JAE.pdf Errors in LiDAR-derived shrub height and crown area on sloped terrain], Journal of Arid Environments, 75 (4), 377-382.
+  * Ehinger, S. 2010. [http://bcal.geology.isu.edu/docs/Ehinger_thesis_0629_Final.pdf Design, Development, and Application of LiDAR Data Processing Tools]. Master of Science thesis, Idaho State University, Idaho.
+
+  * Glenn, N.F., Spaete, L.P., Sankey, T.T., Derryberry, D.R., Hardegree, S.P., Mitchell, J.J., 2011. [http://bcal.geology.isu.edu/docs/Glennetal2010JAE.pdf Errors in LiDAR-derived shrub height and crown area on sloped terrain], Journal of Arid Environments, 75 (4), 377-382.
 
   * Spaete, L., Glenn, N., Derryberry, D., Sankey, T., Mitchell, J., Hardegree, S., 2011. [http://bcal.geology.isu.edu/docs/Spaete%20et%20al%202010.pdf Vegetation and slope effects on accuracy of a LiDAR-derived DEM in the sagebrush steppe]. Remote Sensing Letters, 2 (4), 317-326.
 
@@ -22,7 +24,9 @@ This section lists scientific papers that reported using BCAL LiDAR Tools for th
 
   * Magarick, J.F., 2012. [http://hdl.handle.net/1920/8015 Improving Vegetation and Background Discrimination from Hyperspectral Imaging (HSI) and Light Detection and Ranging (LiDAR) Fusion Using an Added Shortwave Infrared (SWIR) HSI Component]. Master of Science Thesis, George Mason University, Virginia.
 
-  * Sankey, J.B., Law, D.J., Breshears, D.D., Munson, S.M., Webb, R.H., 2013. [http://onlinelibrary.wiley.com/doi/10.1002/grl.50356/abstract Employing lidar to detail vegetation canopy architecture for prediction of aeolian transport]. Geophysical Research Letters. DOI: 10.1002/grl.50356
+  * Sankey, J.B., Law, D.J., Breshears, D.D., Munson, S.M., Webb, R.H., 2013. [http://onlinelibrary.wiley.com/doi/10.1002/grl.50356/abstract Employing lidar to detail vegetation canopy architecture for prediction of aeolian transport]. Geophysical Research Letters. DOI: 10.1002/grl.50356.
+
+  * Gould, S., Glenn, N., Sankey, T., McNamara, J., and Spaete, L. 2013. [http://bcal.geology.isu.edu/docs/Gouldetal2013.pdf Influence of a dense, low-height shrub species on the accuracy of a LiDAR-derived DEM]. Photogrammetric Engineering & Remote Sensing, 79 (5): 421-431.
 
 ===Notes===
 Because most of publications from BCAL use the LiDAR tools, only those papers that describe or test algorithms used in the tools are listed. If you have used BCAL LiDAR Tools for your research, please send the publication link to bcal@isu.edu. Complete list of BCAL publications is available at [http://bcal.geology.isu.edu/research/publications http://bcal.geology.isu.edu/research/publications].
