@@ -8,7 +8,7 @@ This tool is meant to filter LiDAR data into ground and vegetation classes, and 
 ==Usage:==
 
   * Select the input file(s) to filter. If multiple files are selected, they are processed sequentially.
-  * Select whether to use the 1^st^ return, 2^nd^ return, or all return.
+  * Select whether to use the 1^st^ return, 2^nd^ return, or all returns.
   * Input an estimated canopy spacing. This parameter reflects how "open" the canopy is, and is in the units of the horizontal coordinates of the data. Generally, 4-5 m seems to work fairly well. (Note: this is not the same as the LiDAR point spacing.)
   * Input a threshold value. The default value of 0 is fine for most cases. When you want to generate more ground returns, for example, to preserve features like ridges, or rock outcrops, you may want to increase the threshold value.
   * Select the interpolation method to be used. The method chosen may have a significant effect on processing speed, with "Linear" being the fastest. ("Natural Neighbor" has also been found to work quite well.)
