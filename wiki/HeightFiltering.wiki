@@ -25,4 +25,4 @@ This tool is meant to filter LiDAR data into ground and vegetation classes, and 
   * For more information on the filtering algorithm, see:
     * [http://bcal.geology.isu.edu/manuscripts/Streutker_2006_RSE.pdf Streutker, D. and Glenn, N., 2006. LiDAR measurement of sagebrush steppe vegetation heights. Remote Sensing of Environment, 102, 135-145.]
 
-[http://bcal-lidar-tools.googlecode.com/svn/wiki/images/FilterScreen.jpg]
+<wiki:video url="https://www.youtube.com/watch?v=CdQszsR8vfo"/>[http://bcal-lidar-tools.googlecode.com/svn/wiki/images/FilterScreen.jpg]
