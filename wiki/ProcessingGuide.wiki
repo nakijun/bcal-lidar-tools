@@ -33,3 +33,5 @@ Use the [RasterizeLAS raster tool] to create various raster products from your d
 =Data Processing Workflow=
 
 [http://bcal-lidar-tools.googlecode.com/svn/wiki/images/LiDARWorkflow.jpg]
+
+<wiki:video url="http://www.youtube.com/watch?v=1djbk3Gx2m0"/>
