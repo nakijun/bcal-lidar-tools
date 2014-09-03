@@ -29,6 +29,8 @@ This section lists scientific papers that reported using BCAL LiDAR Tools for th
 
   * Tinkham W.T.,	Huang H.,	Smith A.M.S.,	Shrestha R.,	Falkowski M.J.,	Hudak A.T.,	Link T.E.,	Glenn N.F.,	Marks D.G., 2011. [http://www.mdpi.com/2072-4292/3/3/638/ A Comparison of Two Open Source LiDAR Surface Classification Algorithms]. Remote Sensing, 3(3):638-649.
 
+  * Yamamoto, K.H., et al., 2012. [http://www.sciencedirect.com/science/article/pii/S0034425712002908 Using LiDAR to quantify topographic and bathymetric details for sea turtle nesting beaches in Florida]. Remote Sensing of Environment, 125, 125–133. doi:10.1016/j.rse.2012.07.016. 
+
   * Bright, B.C., Hicke, J.A., Hudak, A.T., 2012. [http://dx.doi.org/10.1016/j.rse.2012.05.016 Estimating aboveground carbon stocks of a forest affected by mountain pine beetle in Idaho using lidar and multispectral imagery]. Remote Sensing of Environment, 124: 270-281.
 
   * Bright, B.C., Hudak, A.T., R. McGaughey,  H.E. Andersen, J. Negrón.  2013. [http://www.fs.fed.us/rm/pubs_other/rmrs_2012_bright_b002.pdf Landscape-scale analysis of aboveground tree carbon stocks affected by mountain pine beetles in Idaho]. Environ. Res. Lett. 7, 045702, DOI:10.1088/1748-9326/7/4/045702.
