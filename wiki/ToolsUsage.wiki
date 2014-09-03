@@ -54,4 +54,4 @@ This section lists scientific papers that reported using BCAL LiDAR Tools for th
   * Montealegre, A.L.; Lamelas, M.T.; Tanase, M.A.; de la Riva, J.	[http://www.mdpi.com/2072-4292/6/5/4240 Forest Fire Severity Assessment Using ALS Data in a Mediterranean Environment]. Remote Sens. 2014, 6, 4240-4265.
 
 ===Notes===
-Because most of publications from BCAL use the LiDAR tools, only those papers that describe or test algorithms used in the tools are listed. If you have used BCAL LiDAR Tools for your research, please send the publication link to bcal@isu.edu. A list of BCAL publications is available at [http://bcal.boisestate.edu/research/publications/ http://bcal.boisestate.edu/research/publications/].
+Because most of publications from BCAL use the LiDAR tools, only those papers that describe or test algorithms used in the tools are listed. If you have used BCAL LiDAR Tools for your research, please send the publication link to nancyglenn@boisestate.edu. A list of BCAL publications is available at [http://bcal.boisestate.edu/research/publications/ http://bcal.boisestate.edu/research/publications/].
