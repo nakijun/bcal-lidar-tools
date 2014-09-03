@@ -39,5 +39,7 @@ This section lists scientific papers that reported using BCAL LiDAR Tools for th
 
   * Gould, S., Glenn, N., Sankey, T., McNamara, J., and Spaete, L. 2013. [http://bcal.boisestate.edu/docs/Gouldetal2013.pdf Influence of a dense, low-height shrub species on the accuracy of a LiDAR-derived DEM]. Photogrammetric Engineering & Remote Sensing, 79 (5): 421-431.
 
+  * Kormos, P.R., D. Marks, C. J. Williams, H. P. Marshall, P. Aishlin, D. G. Chandler, and J. P. McNamara. 2014. [http://www.earth-syst-sci-data.net/6/165/2014/essd-6-165-2014.pdf Soil, snow, weather, and sub-surface storage data from a mountain catchment in the rain–snow transition zone]. Earth System Science Data 6.1 (2014): 165-173.
+
 ===Notes===
 Because most of publications from BCAL use the LiDAR tools, only those papers that describe or test algorithms used in the tools are listed. If you have used BCAL LiDAR Tools for your research, please send the publication link to bcal@isu.edu. A list of BCAL publications is available at [http://bcal.boisestate.edu/research/publications/ http://bcal.boisestate.edu/research/publications/].
