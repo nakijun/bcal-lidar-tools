@@ -31,7 +31,9 @@ This section lists scientific papers that reported using BCAL LiDAR Tools for th
 
   * Bright, B.C., Hicke, J.A., Hudak, A.T., 2012. [http://dx.doi.org/10.1016/j.rse.2012.05.016 Estimating aboveground carbon stocks of a forest affected by mountain pine beetle in Idaho using lidar and multispectral imagery]. Remote Sensing of Environment, 124: 270-281.
 
-  * Bright, B.C., Hicke, J.A., Hudak, A.T., 2012. [http://www.fs.fed.us/rm/pubs_other/rmrs_2012_bright_b002.pdf Landscape-scale analysis of aboveground tree carbon stocks affected by mountain pine beetles in Idaho]. Environ. Res. Lett. 7, 045702, DOI:10.1088/1748-9326/7/4/045702.
+  * Bright, B.C., Hudak, A.T., R. McGaughey,  H.E. Andersen, J. Negrón.  2013. [http://www.fs.fed.us/rm/pubs_other/rmrs_2012_bright_b002.pdf Landscape-scale analysis of aboveground tree carbon stocks affected by mountain pine beetles in Idaho]. Environ. Res. Lett. 7, 045702, DOI:10.1088/1748-9326/7/4/045702.
+
+  * Bright, B.C., Hicke, J.A., Hudak, A.T. 2013. [http://pubs.casi.ca/doi/abs/10.5589/m13-027 Predicting live and dead tree basal area of bark beetle affected forests from discrete-return lidar]. Canadian Journal of Remote Sensing, 2013, 39(s1): S99-S111, 10.5589/m13-027
 
   * Magarick, J.F., 2012. [http://hdl.handle.net/1920/8015 Improving Vegetation and Background Discrimination from Hyperspectral Imaging (HSI) and Light Detection and Ranging (LiDAR) Fusion Using an Added Shortwave Infrared (SWIR) HSI Component]. Master of Science Thesis, George Mason University, Virginia.
 
