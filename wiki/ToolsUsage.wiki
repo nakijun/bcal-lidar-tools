@@ -17,7 +17,7 @@ This section lists scientific papers that reported using BCAL LiDAR Tools for th
 
   * Anderson, D.L., Ames, D.P., 2011. [http://www.hydromap.com/josh/index.php/JOSH/article/download/97/96 A Method for Extracting Stream Channel Flow Paths from LiDAR Point Cloud Data]. Journal of Spatial Hydrology, 11(1)
 
-  * J.A.J. Berni, N. Kljun, E. Van Gorsel, V. Haverd, R .LEUNING, A. Cabello-Leblic, A. Held, C. Hopkinson, L. Chasmer, K. Youngento. 2011.[http://www.isprs.org/proceedings/2011/isrse-34/211104015final00382.pdf 3d Spatial Distribution of Biophysical Parameters Derived From Hyperspectral and Lidar Remote Sensing. Improving the Constraints in Land Surface Modelling]. 34th International Symposium on Remote Sensing of Environment, Sydney, Australia, 10-15 April 2011.
+  * J.A.J. Berni, N. Kljun, E. Van Gorsel, V. Haverd, R .LEUNING, A. Cabello-Leblic, A. Held, C. Hopkinson, L. Chasmer, K. Youngento. 2011. [http://www.isprs.org/proceedings/2011/isrse-34/211104015final00382.pdf 3d Spatial Distribution of Biophysical Parameters Derived From Hyperspectral and Lidar Remote Sensing. Improving the Constraints in Land Surface Modelling]. 34th International Symposium on Remote Sensing of Environment, Sydney, Australia, 10-15 April 2011.
 
   * Forsberg, D., 2011. [http://publications.lib.chalmers.se/records/fulltext/148046.pdf Automatic bridge detection in airborne laser scanned data]. Master of Science thesis. Chalmers University of Technology, Sweden.
 
