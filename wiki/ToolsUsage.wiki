@@ -37,7 +37,7 @@ This section lists scientific papers that reported using BCAL LiDAR Tools for th
 
   * Magarick, J.F., 2012. [http://hdl.handle.net/1920/8015 Improving Vegetation and Background Discrimination from Hyperspectral Imaging (HSI) and Light Detection and Ranging (LiDAR) Fusion Using an Added Shortwave Infrared (SWIR) HSI Component]. Master of Science Thesis, George Mason University, Virginia.
 
-  * Sankey, J. B., S. Ravi, C. S. A. Wallace, R. H. Webb, and T. E. Huxman (2012), [http://onlinelibrary.wiley.com/doi/10.1029/2012JG002002/ Quantifying soil surface change in degraded drylands: Shrub encroachment and effects of fire and vegetation removal in a desert grassland], J. Geophys. Res., 117, G02025, doi:10.1029/2012JG002002.
+  * Sankey, J. B., S. Ravi, C. S. A. Wallace, R. H. Webb, and T. E. Huxman (2012), [http://onlinelibrary.wiley.com/doi/10.1029/2012JG002002/abstract Quantifying soil surface change in degraded drylands: Shrub encroachment and effects of fire and vegetation removal in a desert grassland], J. Geophys. Res., 117, G02025, doi:10.1029/2012JG002002.
 
   * Yamamoto, K.H., et al., 2012. [http://www.sciencedirect.com/science/article/pii/S0034425712002908 Using LiDAR to quantify topographic and bathymetric details for sea turtle nesting beaches in Florida]. Remote Sensing of Environment, 125, 125–133. doi:10.1016/j.rse.2012.07.016. 
 
