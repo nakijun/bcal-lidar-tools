@@ -25,6 +25,8 @@ This section lists scientific papers that reported using BCAL LiDAR Tools for th
 
   * Mariappan, M., Lingava, S., Murugaiyan, R., Krishnan, V., Kolanuvada, S.R., Lakshmi, R.S., 2011. [http://www.europeanjournalofscientificresearch.com/ISSUES/EJSR_81_3_02.pdf Carbon Accounting of Urban Forest in Chennai City using Lidar Data]. European Journal of Scientific Research, 81(3): 314-328.
 
+  * Osborne, P.E., Milton, E.J., Leitão, P.J. 2011. [http://gef.nerc.ac.uk/documents/reports/954.pdf Hyperspectral Monitoring of a Mediterranean Ecosystem –  Castro Verde 2011]. Nerc Geophysical Equipment Facility Scientific Report - Loan 934. 
+
   * Spaete, L., Glenn, N., Derryberry, D., Sankey, T., Mitchell, J., Hardegree, S., 2011. [http://bcal.boisestate.edu/docs/Spaete%20et%20al%202010.pdf Vegetation and slope effects on accuracy of a LiDAR-derived DEM in the sagebrush steppe]. Remote Sensing Letters, 2 (4), 317-326.
 
   * Streutker, D., Glenn, N., and Shrestha, R., 2011. [http://bcal.boisestate.edu/docs/Streutker_pers_july11.pdf A slope-based method for matching elevation surfaces]. Photogrammetric Engineering & Remote Sensing, 77 (7): 743-750.
