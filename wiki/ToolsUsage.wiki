@@ -5,7 +5,7 @@
 
 This section lists scientific papers that reported using BCAL LiDAR Tools for their LiDAR data processing and analysis. 
 
-  * Streutker, D. and Glenn, N., 2006. [http://bcal.geology.isu.edu/manuscripts/Streutker_2006_RSE.pdf LiDAR measurement of sagebrush steppe vegetation heights]. Remote Sensing of Environment, 102, 135-145.
+  * Streutker, D. and Glenn, N., 2006. [http://bcal.boisestate.edu/manuscripts/Streutker_2006_RSE.pdf LiDAR measurement of sagebrush steppe vegetation heights]. Remote Sensing of Environment, 102, 135-145.
 
   * Long, B., Cottin, A., Collin, A., 2007. [http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=04423518 What optech's bathymetric LiDAR sees underwater]. Geoscience and Remote Sensing Symposium, 2007. IGARSS 2007. pp. 3170-3173.
 
@@ -13,19 +13,19 @@ This section lists scientific papers that reported using BCAL LiDAR Tools for th
 
   * Yun, Y., and Ying, L., 2009. [http://ieeexplore.ieee.org/ielx5/5300806/5300807/05304531.pdf A Novel Deformable Model for Urban Vegetation Detection Using LiDAR Data]. 2nd International Congress on Image and Signal Processing, 2009. CISP '09. pp. 1-5.
 
-  * Ehinger, S., 2010. [http://bcal.geology.isu.edu/docs/Ehinger_thesis_0629_Final.pdf Design, Development, and Application of LiDAR Data Processing Tools]. Master of Science thesis, Idaho State University, Idaho.
+  * Ehinger, S., 2010. [http://bcal.boisestate.edu/docs/Ehinger_thesis_0629_Final.pdf Design, Development, and Application of LiDAR Data Processing Tools]. Master of Science thesis, Idaho State University, Idaho.
 
   * Anderson, D.L., Ames, D.P., 2011. [http://www.hydromap.com/josh/index.php/JOSH/article/download/97/96 A Method for Extracting Stream Channel Flow Paths from LiDAR Point Cloud Data]. Journal of Spatial Hydrology, 11(1)
 
   * Forsberg, D., 2011. [http://publications.lib.chalmers.se/records/fulltext/148046.pdf Automatic bridge detection in airborne laser scanned data]. Master of Science thesis. Chalmers University of Technology, Sweden.
 
-  * Glenn, N.F., Spaete, L.P., Sankey, T.T., Derryberry, D.R., Hardegree, S.P., Mitchell, J.J., 2011. [http://bcal.geology.isu.edu/docs/Glennetal2010JAE.pdf Errors in LiDAR-derived shrub height and crown area on sloped terrain], Journal of Arid Environments, 75 (4), 377-382.
+  * Glenn, N.F., Spaete, L.P., Sankey, T.T., Derryberry, D.R., Hardegree, S.P., Mitchell, J.J., 2011. [http://bcal.boisestate.edu/docs/Glennetal2010JAE.pdf Errors in LiDAR-derived shrub height and crown area on sloped terrain], Journal of Arid Environments, 75 (4), 377-382.
 
   * Mariappan, M., Lingava, S., Murugaiyan, R., Krishnan, V., Kolanuvada, S.R., Lakshmi, R.S., 2011. [http://www.europeanjournalofscientificresearch.com/ISSUES/EJSR_81_3_02.pdf Carbon Accounting of Urban Forest in Chennai City using Lidar Data]. European Journal of Scientific Research, 81(3): 314-328.
 
-  * Spaete, L., Glenn, N., Derryberry, D., Sankey, T., Mitchell, J., Hardegree, S., 2011. [http://bcal.geology.isu.edu/docs/Spaete%20et%20al%202010.pdf Vegetation and slope effects on accuracy of a LiDAR-derived DEM in the sagebrush steppe]. Remote Sensing Letters, 2 (4), 317-326.
+  * Spaete, L., Glenn, N., Derryberry, D., Sankey, T., Mitchell, J., Hardegree, S., 2011. [http://bcal.boisestate.edu/docs/Spaete%20et%20al%202010.pdf Vegetation and slope effects on accuracy of a LiDAR-derived DEM in the sagebrush steppe]. Remote Sensing Letters, 2 (4), 317-326.
 
-  * Streutker, D., Glenn, N., and Shrestha, R., 2011. [http://bcal.geology.isu.edu/docs/Streutker_pers_july11.pdf A slope-based method for matching elevation surfaces]. Photogrammetric Engineering & Remote Sensing, 77 (7): 743-750.
+  * Streutker, D., Glenn, N., and Shrestha, R., 2011. [http://bcal.boisestate.edu/docs/Streutker_pers_july11.pdf A slope-based method for matching elevation surfaces]. Photogrammetric Engineering & Remote Sensing, 77 (7): 743-750.
 
   * Tinkham W.T.,	Huang H.,	Smith A.M.S.,	Shrestha R.,	Falkowski M.J.,	Hudak A.T.,	Link T.E.,	Glenn N.F.,	Marks D.G., 2011. [http://www.mdpi.com/2072-4292/3/3/638/ A Comparison of Two Open Source LiDAR Surface Classification Algorithms]. Remote Sensing, 3(3):638-649.
 
@@ -37,7 +37,7 @@ This section lists scientific papers that reported using BCAL LiDAR Tools for th
 
   * Sankey, J.B., Law, D.J., Breshears, D.D., Munson, S.M., Webb, R.H., 2013. [http://onlinelibrary.wiley.com/doi/10.1002/grl.50356/abstract Employing lidar to detail vegetation canopy architecture for prediction of aeolian transport]. Geophysical Research Letters. DOI: 10.1002/grl.50356.
 
-  * Gould, S., Glenn, N., Sankey, T., McNamara, J., and Spaete, L. 2013. [http://bcal.geology.isu.edu/docs/Gouldetal2013.pdf Influence of a dense, low-height shrub species on the accuracy of a LiDAR-derived DEM]. Photogrammetric Engineering & Remote Sensing, 79 (5): 421-431.
+  * Gould, S., Glenn, N., Sankey, T., McNamara, J., and Spaete, L. 2013. [http://bcal.boisestate.edu/docs/Gouldetal2013.pdf Influence of a dense, low-height shrub species on the accuracy of a LiDAR-derived DEM]. Photogrammetric Engineering & Remote Sensing, 79 (5): 421-431.
 
 ===Notes===
 Because most of publications from BCAL use the LiDAR tools, only those papers that describe or test algorithms used in the tools are listed. If you have used BCAL LiDAR Tools for your research, please send the publication link to bcal@isu.edu. A list of BCAL publications is available at [http://bcal.geology.isu.edu/research/publications http://bcal.geology.isu.edu/research/publications].
