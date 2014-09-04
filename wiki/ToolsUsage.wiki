@@ -35,15 +35,15 @@ This section lists scientific papers that reported using BCAL LiDAR Tools for th
 
   * Bright, B.C., Hicke, J.A., Hudak, A.T., 2012. [http://dx.doi.org/10.1016/j.rse.2012.05.016 Estimating aboveground carbon stocks of a forest affected by mountain pine beetle in Idaho using lidar and multispectral imagery]. Remote Sensing of Environment, 124: 270-281.
 
-  * Bright, B.C., Hudak, A.T., R. McGaughey,  H.E. Andersen, J. Negrón.  2013. [http://www.fs.fed.us/rm/pubs_other/rmrs_2012_bright_b002.pdf Landscape-scale analysis of aboveground tree carbon stocks affected by mountain pine beetles in Idaho]. Environ. Res. Lett. 7, 045702, DOI:10.1088/1748-9326/7/4/045702.
-
-  * Bright, B.C., Hicke, J.A., Hudak, A.T. 2013. [http://pubs.casi.ca/doi/abs/10.5589/m13-027 Predicting live and dead tree basal area of bark beetle affected forests from discrete-return lidar]. Canadian Journal of Remote Sensing, 2013, 39(s1): S99-S111, 10.5589/m13-027
-
   * Magarick, J.F., 2012. [http://hdl.handle.net/1920/8015 Improving Vegetation and Background Discrimination from Hyperspectral Imaging (HSI) and Light Detection and Ranging (LiDAR) Fusion Using an Added Shortwave Infrared (SWIR) HSI Component]. Master of Science Thesis, George Mason University, Virginia.
 
   * Sankey, J. B., S. Ravi, C. S. A. Wallace, R. H. Webb, and T. E. Huxman (2012), [http://onlinelibrary.wiley.com/doi/10.1029/2012JG002002/abstract Quantifying soil surface change in degraded drylands: Shrub encroachment and effects of fire and vegetation removal in a desert grassland], J. Geophys. Res., 117, G02025, doi:10.1029/2012JG002002.
 
   * Yamamoto, K.H., et al., 2012. [http://www.sciencedirect.com/science/article/pii/S0034425712002908 Using LiDAR to quantify topographic and bathymetric details for sea turtle nesting beaches in Florida]. Remote Sensing of Environment, 125, 125–133. doi:10.1016/j.rse.2012.07.016. 
+
+  * Bright, B.C., Hudak, A.T., R. McGaughey,  H.E. Andersen, J. Negrón.  2013. [http://www.fs.fed.us/rm/pubs_other/rmrs_2012_bright_b002.pdf Landscape-scale analysis of aboveground tree carbon stocks affected by mountain pine beetles in Idaho]. Environ. Res. Lett. 7, 045702, DOI:10.1088/1748-9326/7/4/045702.
+
+  * Bright, B.C., Hicke, J.A., Hudak, A.T. 2013. [http://pubs.casi.ca/doi/abs/10.5589/m13-027 Predicting live and dead tree basal area of bark beetle affected forests from discrete-return lidar]. Canadian Journal of Remote Sensing, 2013, 39(s1): S99-S111, 10.5589/m13-027
 
   * Sankey, J.B., Law, D.J., Breshears, D.D., Munson, S.M., Webb, R.H., 2013. [http://onlinelibrary.wiley.com/doi/10.1002/grl.50356/abstract Employing lidar to detail vegetation canopy architecture for prediction of aeolian transport]. Geophysical Research Letters. DOI: 10.1002/grl.50356.
 
