@@ -11,7 +11,7 @@
   * In Unix, issuing following command in the terminal will start the program. Replace 'Path-to-lidartools' with your path, e.g., usr/local/lidartools/
    <code>idl -vm=Path-to-lidartools/lidartools.sav</code>
 
-==version 1.x.x for ENVI 4.x==
+==version 1.x.x for ENVI 4.x and ENVI 5.x Classic==
   # You will need ENVI 4.7 or above pre-installed in your computer. These tools have not been tested for other versions of ENVI.
   # [http://bcal.boisestate.edu/tools/lidar/ Download] the Lidar Tools Zip (version 1.x.x) file. Unzip the file into the "save_add" folder of your ENVI installation. On my computer, this folder is located at: "C:\Program Files\ITT\IDL71\products\enviXX\save_add\"
   # Start ENVI
